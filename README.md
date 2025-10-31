@@ -1,3 +1,5 @@
+Note: This is a fork for the WEAP Perception Team to be used for lane detection
+
 # Ultra-Fast-Lane-Detection-V2
 PyTorch implementation of the paper "[Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification](https://arxiv.org/abs/2206.07389)".
 
